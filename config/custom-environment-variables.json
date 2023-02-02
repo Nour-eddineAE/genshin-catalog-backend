@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "NODE_ENV",
+  "DB_LOGGING_LEVEL": "genshin_catalogue_DB_LOGGING_LEVEL",
+  "CONSOLE_LOGGING_LEVEL": "genshin_catalogue_CONSOLE_LOGGING_LEVEL",
+  "FILE_LOGGING_LEVEL": "genshin_catalogue_FILE_LOGGING_LEVEL"
+}
