@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63dbfaa64a202e0488c8523f"
+  },
+  "name": "Adventur's idk what",
+  "description": "another random description",
+  "rarity": 4,
+  "img": "https://paimon.moe/images/artifacts/adventurer_plume.png"
+},{
+  "_id": {
+    "$oid": "63dec2cee6285601fc8bac94"
+  },
+  "name": "Adventurer's flower",
+  "description": "The ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.\n  ",
+  "rarity": 4,
+  "img": "https://paimon.moe/images/artifacts/adventurer_flower.png"
+}]

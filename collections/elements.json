@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63dbf0adb194709a1bee0a28"
+  },
+  "name": "Cryo"
+},{
+  "_id": {
+    "$oid": "63dbf0bfb194709a1bee0a2a"
+  },
+  "name": "Anemo"
+},{
+  "_id": {
+    "$oid": "63dd86b6b194709a1bee0a60"
+  },
+  "name": "Dendro"
+},{
+  "_id": {
+    "$oid": "63dd86e3b194709a1bee0a62"
+  },
+  "name": "Hydro"
+},{
+  "_id": {
+    "$oid": "63dd86f5b194709a1bee0a64"
+  },
+  "name": "Pyro"
+},{
+  "_id": {
+    "$oid": "63dd86feb194709a1bee0a66"
+  },
+  "name": "Geo"
+}]

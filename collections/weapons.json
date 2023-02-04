@@ -1,0 +1,27 @@
+[{
+  "name": "catch",
+  "base_attack": 70,
+  "second_stat": "teeeeeeest",
+  "passive": "teeeeeeeeest",
+  "rarity": 5,
+  "weaponType": {
+    "name": "Sword",
+    "_id": {
+      "$oid": "63dd89c4b194709a1bee0a6c"
+    }
+  },
+  "img": "https://paimon.moe/images/weapons/the_catch.png"
+},{
+  "name": "Forest pageantry",
+  "base_attack": 44,
+  "second_stat": "Forging",
+  "passive": "After triggering a reaction of Burning, Stimulation, ...",
+  "rarity": 4,
+  "weaponType": {
+    "name": "Sword",
+    "_id": {
+      "$oid": "63dd89c4b194709a1bee0a6c"
+    }
+  },
+  "img": "https://paimon.moe/images/weapons/forest_regalia.png"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63dd89c4b194709a1bee0a6c"
+  },
+  "name": "Sword"
+},{
+  "_id": {
+    "$oid": "63dd89c4b194709a1bee0a6d"
+  },
+  "name": "Polearm"
+},{
+  "_id": {
+    "$oid": "63dd89c4b194709a1bee0a6e"
+  },
+  "name": "Bow"
+},{
+  "_id": {
+    "$oid": "63dd89c4b194709a1bee0a6f"
+  },
+  "name": "Catalyst"
+}]

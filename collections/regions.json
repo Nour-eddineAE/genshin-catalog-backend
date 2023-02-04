@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "63dbf0dbb194709a1bee0a2d"
+  },
+  "name": "Inazuma"
+},{
+  "_id": {
+    "$oid": "63dd8622b194709a1bee0a59"
+  },
+  "name": "Monstadt"
+},{
+  "_id": {
+    "$oid": "63dd863db194709a1bee0a5b"
+  },
+  "name": "Liyue"
+}]
