@@ -23,13 +23,13 @@ const characterSchema = new mongoose.Schema({
     type: elementSchema,
   },
   weaponType: {
-    weaponTypeSchema,
+    type: weaponTypeSchema,
   },
   description: {
     type: String,
     required: true,
     minlength: 3,
-    maxlength: 250,
+    maxlength: 1000,
   },
   imgSmall: { type: String, required: true, minlength: 3, maxlength: 200 },
   imgFull: { type: String, required: true, minlength: 3, maxlength: 200 },

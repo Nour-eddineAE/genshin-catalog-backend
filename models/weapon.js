@@ -24,7 +24,7 @@ const weaponSchema = new mongoose.Schema({
     type: String,
     required: true,
     minlength: 3,
-    maxlength: 200,
+    maxlength: 1000,
   },
 
   rarity: {

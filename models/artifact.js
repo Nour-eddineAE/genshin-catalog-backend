@@ -11,7 +11,7 @@ const artifactSchema = new mongoose.Schema({
     type: String,
     required: true,
     minlength: 3,
-    maxlength: 250,
+    maxlength: 1000,
   },
   rarity: {
     type: Number,

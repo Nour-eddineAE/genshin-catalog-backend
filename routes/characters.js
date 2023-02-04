@@ -33,12 +33,11 @@ router.post("/", middlewares, async (request, response) => {
     request,
     response
   );
-
   let character = new Character({
     name: request.body.name,
-    region: region,
-    element: element,
-    weaponType: weaponType,
+    region,
+    element,
+    weaponType,
     rarity: request.body.rarity,
     description: request.body.description,
     imgFull: request.body.imgFull,
@@ -60,9 +59,9 @@ router.put("/:id", middlewares, async (request, response) => {
     characterId,
     {
       name: request.body.name,
-      region: region,
-      element: element,
-      weaponType: weaponType,
+      region,
+      element,
+      weaponType,
       rarity: request.body.rarity,
       description: request.body.description,
       imgFull: request.body.imgFull,

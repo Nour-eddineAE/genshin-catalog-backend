@@ -12,7 +12,7 @@ module.exports.validateBody = (body) => {
     rarity: Joi.number().required().min(0).max(5),
     elementName: Joi.string().required().min(3).max(20),
     weaponTypeName: Joi.string().required().min(3).max(20),
-    description: Joi.string().required().min(3).max(250),
+    description: Joi.string().required().min(3).max(1000),
     imgSmall: Joi.string().required().min(3).max(200),
     imgFull: Joi.string().required().min(3).max(200),
   });
